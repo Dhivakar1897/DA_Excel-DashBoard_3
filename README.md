@@ -56,6 +56,6 @@ The Blinkit Sales Analysis Dashboard is an interactive Microsoft Excel project d
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](DashBoard.png)
 
 ---
